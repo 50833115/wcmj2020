@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>50833115 鋼管</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall CP 課程</title><link href=".%5C2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:None,2018-09-10:.\2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>50833115 鋼管</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/all.atom.xml" rel="self"></link><id>./</id><updated>2020-05-22T15:30:00+08:00</updated><entry><title>電腦基本組成</title><link href=".%5C%E9%9B%BB%E8%85%A6%E5%9F%BA%E6%9C%AC%E7%B5%84%E6%88%9050833115%20testtest123-32-bit-Windows.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>lyndon</name></author><id>tag:None,2020-05-22:.\電腦基本組成50833115 testtest123-32-bit-Windows.html</id><summary type="html">&lt;p&gt;硬體&lt;/p&gt;
+&lt;p&gt;指構成電腦的各種實體機器設備或電子元件，如電腦主機、螢幕、鍵盤、磁碟機、記憶體等，及各式的電腦週邊設備如印表機、掃描器、數據機等。&lt;/p&gt;
+&lt;p&gt;電腦硬體的五大部門&lt;/p&gt;
+&lt;p&gt;名   稱&lt;/p&gt;
+&lt;p&gt;功能說明&lt;/p&gt;
+&lt;p&gt;實體元件&lt;/p&gt;
+&lt;p&gt;算術邏輯單元
+(處理單元)&lt;/p&gt;
+&lt;p&gt;具有算術運算，邏輯運算，關係比對的功能，簡稱ALU   中央處理單元 (Central Processing Unit)，簡稱：CPU或微處理機(包含有控制單元與算術邏輯單元)。乃是電腦的心臟。主要是由控制單元(CU)與算術邏輯單元(ALU)以及記憶單元(MU)的合稱
+(個人電腦市場的CPU品牌：Intel、AMD)
+控制單元&lt;/p&gt;
+&lt;p&gt;主要接受程式軟體的指揮控制計算機的執行順序，及負責協調各單元間的運作與資料的傳送，簡稱CU
+記憶單元
+(儲存單元)&lt;/p&gt;
+&lt;p&gt;儲存資料與程式，簡稱MU  &lt;br&gt;
+↗&lt;/p&gt;
+&lt;p&gt;主記憶體&lt;/p&gt;
+&lt;p&gt;Main Memory …&lt;/p&gt;</summary><content type="html">&lt;p&gt;硬體&lt;/p&gt;
+&lt;p&gt;指構成電腦的各種實體機器設備或電子元件，如電腦主機、螢幕、鍵盤、磁碟機、記憶體等，及各式的電腦週邊設備如印表機、掃描器、數據機等。&lt;/p&gt;
+&lt;p&gt;電腦硬體的五大部門&lt;/p&gt;
+&lt;p&gt;名   稱&lt;/p&gt;
+&lt;p&gt;功能說明&lt;/p&gt;
+&lt;p&gt;實體元件&lt;/p&gt;
+&lt;p&gt;算術邏輯單元
+(處理單元)&lt;/p&gt;
+&lt;p&gt;具有算術運算，邏輯運算，關係比對的功能，簡稱ALU   中央處理單元 (Central Processing Unit)，簡稱：CPU或微處理機(包含有控制單元與算術邏輯單元)。乃是電腦的心臟。主要是由控制單元(CU)與算術邏輯單元(ALU)以及記憶單元(MU)的合稱
+(個人電腦市場的CPU品牌：Intel、AMD)
+控制單元&lt;/p&gt;
+&lt;p&gt;主要接受程式軟體的指揮控制計算機的執行順序，及負責協調各單元間的運作與資料的傳送，簡稱CU
+記憶單元
+(儲存單元)&lt;/p&gt;
+&lt;p&gt;儲存資料與程式，簡稱MU  &lt;br&gt;
+↗&lt;/p&gt;
+&lt;p&gt;主記憶體&lt;/p&gt;
+&lt;p&gt;Main Memory(初級記憶體,Primary memory)。通指電子元件的記憶體模組，包含RAM與ROM，&lt;/p&gt;
+&lt;p&gt;↘&lt;/p&gt;
+&lt;p&gt;輔助記憶體&lt;/p&gt;
+&lt;p&gt;Auxiliary memory(次級記憶體Secondary Memory)。通指具有機械裝置的資料儲存元件，包含軟碟片、硬碟機、光碟片等。
+週邊設備可以分為輸出與輸入設備 
+輸入單元&lt;/p&gt;
+&lt;p&gt;讀取輸入媒體內的資料&lt;br&gt;
+光碟與光碟機、鍵盤、滑鼠、掃描器、光筆與手寫板、條碼掃描器、數位相機、光學字元辨識器…&lt;/p&gt;
+&lt;p&gt;軟碟機、硬碟機、燒錄機&lt;/p&gt;
+&lt;p&gt;輸出單元&lt;/p&gt;
+&lt;p&gt;將資料輸出至輸出媒體&lt;br&gt;
+顯示器、印表機、繪圖機&lt;/p&gt;</content><category term="Misc"></category><category term="電腦基本組成"></category></entry><entry><title>2018 Fall CP 課程</title><link href=".%5C2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:None,2018-09-10:.\2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
 
 

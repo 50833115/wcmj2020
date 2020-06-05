@@ -65,12 +65,9 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2018</vh>
-<v t="leo.20180423103639.1"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@clean 20180910.md</vh></v>
+<v t="leo.20180423103639.1"><vh>2018 Fall CP 課程</vh></v>
 <v t="leo.20200522150855.1"><vh>@clean 202005221530.md</vh></v>
-<v t="leo.20200522154540.1"><vh>@clean 202012251248.md</vh></v>
-<v t="leo.20200522160014.1"><vh>@clean 202101100550.md</vh></v>
-</v>
+<v t="leo.20180423103656.1"><vh>@clean 20180910.md</vh></v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
@@ -171,51 +168,61 @@ Author: yen
 </t>
 <t tx="leo.20200522150855.1">@language md
 ---
-Title: 50833115 test.test.123
+Title: 電腦基本組成
 Date: 2020-05-22 15:30
 Category: Misc
-Tags: 50833115 test.test.123
-Slug: 50833115 testtest123-32-bit-Windows
+Tags: 電腦基本組成
+Slug: 電腦基本組成50833115 testtest123-32-bit-Windows
 Author: lyndon
 ---
 
-I test this for the future.
-Maybe we will live in Mars.
-This can be my log in Mars.</t>
-<t tx="leo.20200522154540.1">@language md
----
-Title: HELP!
-Date: 2020-12-25 12:48
-Category: Misc
-Tags: HELP
-Slug: HELP-32-bit-Windows
-Author: lyndon
----
+硬體
 
-My spaceship was brokken by the strom.
-And foods are all disappear.
-I need th HELP...HEL...H...</t>
-<t tx="leo.20200522160014.1">@language md
----
-Title: Recent situation
-Date: 2021-01-10 5:50
-Category: Misc
-Tags: Recent situation
-Slug: Recent situation-32-bit-Windows
-Author: lyndon
----
+指構成電腦的各種實體機器設備或電子元件，如電腦主機、螢幕、鍵盤、磁碟機、記憶體等，及各式的電腦週邊設備如印表機、掃描器、數據機等。
 
-Ok
-So
-I've been waited for the resources a long long times...
-I still can't get anything at all...
-And than my resources are about to run out.
-But there have some potatos.
-I decided plant them for my living resources.
-And I will go to the north to find ice for water......
+電腦硬體的五大部門
+ 	 
+名   稱
 
-P.S. This has already became my log.
-        Fuck you NASA</t>
+功能說明
+
+實體元件
+
+算術邏輯單元
+(處理單元)
+
+具有算術運算，邏輯運算，關係比對的功能，簡稱ALU	中央處理單元 (Central Processing Unit)，簡稱：CPU或微處理機(包含有控制單元與算術邏輯單元)。乃是電腦的心臟。主要是由控制單元(CU)與算術邏輯單元(ALU)以及記憶單元(MU)的合稱
+(個人電腦市場的CPU品牌：Intel、AMD)
+控制單元
+
+主要接受程式軟體的指揮控制計算機的執行順序，及負責協調各單元間的運作與資料的傳送，簡稱CU
+記憶單元
+(儲存單元)
+
+儲存資料與程式，簡稱MU	
+↗
+
+主記憶體
+
+Main Memory(初級記憶體,Primary memory)。通指電子元件的記憶體模組，包含RAM與ROM，
+
+↘
+
+輔助記憶體
+
+Auxiliary memory(次級記憶體Secondary Memory)。通指具有機械裝置的資料儲存元件，包含軟碟片、硬碟機、光碟片等。
+週邊設備可以分為輸出與輸入設備	
+輸入單元
+
+讀取輸入媒體內的資料	
+光碟與光碟機、鍵盤、滑鼠、掃描器、光筆與手寫板、條碼掃描器、數位相機、光學字元辨識器…
+
+軟碟機、硬碟機、燒錄機
+
+輸出單元
+
+將資料輸出至輸出媒體	
+顯示器、印表機、繪圖機</t>
 <t tx="leo.20200529141437.1">@language python
 
 from markdown import markdown
@@ -476,7 +483,7 @@ vertical: body pane on the botton</t>
 <t tx="yen.20170108171733.2">@language python
 import os
 
-os.system("c")
+os.system("pelican markdown -o blog -s local_publishconf.py")
 g.es("admin pelican 近端執行完畢")
 
 
