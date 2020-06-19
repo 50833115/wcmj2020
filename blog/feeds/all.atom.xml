@@ -11,6 +11,18 @@
 &lt;p&gt;複製（Clone）指令:
 把專案在遠端儲存庫上的所有內容複製到本地，建立起本機儲存庫及工作目錄&lt;/p&gt;
 &lt;p&gt;叉（Fork）指令:
+把別人專案的遠端儲存庫內容複製一份到自己的遠端儲存庫（類似Google Drive的共用功能）&lt;/p&gt;</content><category term="Misc"></category><category term="Github 基本觀念"></category></entry><entry><title>Github 基本觀念</title><link href=".%5CGithub%20%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%2050833115-32-bit-Windows.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>lyndon</name></author><id>tag:None,2020-05-22:.\Github 基本觀念 50833115-32-bit-Windows.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;開發者要建立一個開發專案時，要為這個專案建立一個目錄，以及建立一個這個專案的儲存庫
+主幹（Master）與分支（Branch）是稱呼專案的主要版本和分支版本&lt;/p&gt;
+&lt;p&gt;主幹（Master）:
+一般會將較穩定的版本作為主幹&lt;/p&gt;
+&lt;p&gt;分支（Branch）:
+一般會將變動、開發中版本則都稱作分支&lt;/p&gt;
+&lt;p&gt;分案手法:&lt;/p&gt;
+&lt;p&gt;複製（Clone）指令:
+把專案在遠端儲存庫上的所有內容複製到本地，建立起本機儲存庫及工作目錄&lt;/p&gt;
+&lt;p&gt;叉（Fork）指令:
 把別人專案的遠端儲存庫內容複製一份到自己的遠端儲存庫（類似Google Drive的共用功能）&lt;/p&gt;</content><category term="Misc"></category><category term="Github 基本觀念"></category></entry><entry><title>電腦基本組成</title><link href=".%5C%E9%9B%BB%E8%85%A6%E5%9F%BA%E6%9C%AC%E7%B5%84%E6%88%9050833115%20testtest123-32-bit-Windows.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>lyndon</name></author><id>tag:None,2020-05-22:.\電腦基本組成50833115 testtest123-32-bit-Windows.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;硬體&lt;/p&gt;
@@ -41,4 +53,28 @@
 &lt;p&gt;軟碟機、硬碟機、燒錄機&lt;/p&gt;
 &lt;p&gt;輸出單元&lt;/p&gt;
 &lt;p&gt;將資料輸出至輸出媒體&lt;br&gt;
-顯示器、印表機、繪圖機&lt;/p&gt;</content><category term="Misc"></category><category term="電腦基本組成"></category></entry></feed>
+顯示器、印表機、繪圖機&lt;/p&gt;</content><category term="Misc"></category><category term="電腦基本組成"></category></entry><entry><title>Github 基本觀念</title><link href=".%5CGithub%20%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%2050833115-32-bit-Windows.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>lyndon</name></author><id>tag:None,2020-05-22:.\Github 基本觀念 50833115-32-bit-Windows.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;開發者要建立一個開發專案時，要為這個專案建立一個目錄，以及建立一個這個專案的儲存庫
+主幹（Master）與分支（Branch）是稱呼專案的主要版本和分支版本&lt;/p&gt;
+&lt;p&gt;主幹（Master）:
+一般會將較穩定的版本作為主幹&lt;/p&gt;
+&lt;p&gt;分支（Branch）:
+一般會將變動、開發中版本則都稱作分支&lt;/p&gt;
+&lt;p&gt;分案手法:&lt;/p&gt;
+&lt;p&gt;複製（Clone）指令:
+把專案在遠端儲存庫上的所有內容複製到本地，建立起本機儲存庫及工作目錄&lt;/p&gt;
+&lt;p&gt;叉（Fork）指令:
+把別人專案的遠端儲存庫內容複製一份到自己的遠端儲存庫（類似Google Drive的共用功能）&lt;/p&gt;</content><category term="Misc"></category><category term="Github 基本觀念"></category></entry><entry><title>Github 基本觀念</title><link href=".%5CGithub%20%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%2050833115-32-bit-Windows.html" rel="alternate"></link><published>2020-05-22T15:30:00+08:00</published><updated>2020-05-22T15:30:00+08:00</updated><author><name>lyndon</name></author><id>tag:None,2020-05-22:.\Github 基本觀念 50833115-32-bit-Windows.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;開發者要建立一個開發專案時，要為這個專案建立一個目錄，以及建立一個這個專案的儲存庫
+主幹（Master）與分支（Branch）是稱呼專案的主要版本和分支版本&lt;/p&gt;
+&lt;p&gt;主幹（Master）:
+一般會將較穩定的版本作為主幹&lt;/p&gt;
+&lt;p&gt;分支（Branch）:
+一般會將變動、開發中版本則都稱作分支&lt;/p&gt;
+&lt;p&gt;分案手法:&lt;/p&gt;
+&lt;p&gt;複製（Clone）指令:
+把專案在遠端儲存庫上的所有內容複製到本地，建立起本機儲存庫及工作目錄&lt;/p&gt;
+&lt;p&gt;叉（Fork）指令:
+把別人專案的遠端儲存庫內容複製一份到自己的遠端儲存庫（類似Google Drive的共用功能）&lt;/p&gt;</content><category term="Misc"></category><category term="Github 基本觀念"></category></entry></feed>
