@@ -72,6 +72,9 @@
 <v t="leo.20180423103656.1"><vh>@clean 20180910.md</vh>
 <v t="leo.20200613140012.1"><vh>2</vh></v>
 </v>
+<v t="leo.20200619142055.1"><vh>@clean 20180910.md</vh>
+<v t="leo.20200619071537.1"><vh>3</vh></v>
+</v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
@@ -411,6 +414,34 @@ Auxiliary memory(次級記憶體Secondary Memory)。通指具有機械裝置的�
 
 [計算機程式的重要性]: https://www.quora.com/Why-is-programming-so-important-in-the-modern-world
 </t>
+<t tx="leo.20200619071537.1">開發者要建立一個開發專案時，要為這個專案建立一個目錄，以及建立一個這個專案的儲存庫
+主幹（Master）與分支（Branch）是稱呼專案的主要版本和分支版本
+
+主幹（Master）:
+一般會將較穩定的版本作為主幹
+
+分支（Branch）:
+一般會將變動、開發中版本則都稱作分支
+
+分案手法:
+
+複製（Clone）指令:
+把專案在遠端儲存庫上的所有內容複製到本地，建立起本機儲存庫及工作目錄
+
+叉（Fork）指令:
+把別人專案的遠端儲存庫內容複製一份到自己的遠端儲存庫（類似Google Drive的共用功能）</t>
+<t tx="leo.20200619142055.1">@language md
+---
+Title: Github 基本觀念
+Date: 2020-05-22 15:30
+Category: Misc
+Tags: Github 基本觀念
+Slug: Github 基本觀念 50833115-32-bit-Windows
+Author: lyndon
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
